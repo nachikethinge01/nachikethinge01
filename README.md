@@ -1,4 +1,4 @@
-(https://user-images.githubusercontent.com/55408263/141663171-49954349-ead9-4dff-831b-2906975b6165.png)
+https://user-images.githubusercontent.com/55408263/141663171-49954349-ead9-4dff-831b-2906975b6165.png
 
 
 ![Nachiket's GitHub stats](https://github-readme-stats.vercel.app/api?username=nachikethinge01&show_icons=true&theme=dark)
